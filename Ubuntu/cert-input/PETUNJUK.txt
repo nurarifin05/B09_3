@@ -1,0 +1,1 @@
+Letakkan fullchain.pem dan sibertaruna.my.id.key di sini SEBELUM setup.sh. Jangan unggah private key ke LMS atau Kali. Gunakan sertifikat khusus lab bila tersedia.
